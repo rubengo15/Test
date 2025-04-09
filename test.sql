@@ -1,1 +1,2 @@
-SELECT * FROM dept;
+SELECT * FROM dept; 
+--prueba;
